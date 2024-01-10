@@ -15,3 +15,6 @@ Here is the real documentation: https://learn.microsoft.com/en-us/dotnet/maui/ge
    - The documentation explains how to emulate your project for android development environment, I would recomend you to use Windows or Linux to start as a desktop application.
    - Here is the windows setting documentation: https://learn.microsoft.com/en-us/dotnet/maui/windows/setup?view=net-maui-8.0
 
+
+## Story of The App
+This Windows desktop application will be able to connect the USB ports of the PC and take data from there display the USB content on the screen. Second state of this app will be a simple internet connection that allows user to reach Github accounts.
